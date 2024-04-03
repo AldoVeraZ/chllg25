@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="container">
-      <h2 className="nanum-gothic-extrabold">Weather Consultant Global</h2>
+      <h2 className="nanum-gothic-extrabold">Consulta de tiempo global</h2>
       <div className="row">
         <input
           onKeyDown={handleSearch}
